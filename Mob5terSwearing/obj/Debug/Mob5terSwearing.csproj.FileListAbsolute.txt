@@ -1,0 +1,8 @@
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\bin\Debug\Mob5terSwearing.dll
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\bin\Debug\Mob5terSwearing.pdb
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.dll
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.pdb
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.Properties.Resources.resources
+C:\Users\sanch\source\repos\TestProjects\Mob5terSwearing\Mob5terSwearing\obj\Debug\Mob5terSwearing.csproj.GenerateResource.cache
